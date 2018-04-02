@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 02/04/2018 08:10
+    Creation date: 02/04/2018 09:15
     */
 
     @font-face {
@@ -36,12 +36,26 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-needle-with-thread-to-sew-clothes:before { content: "\f100"; }
-.flaticon-suit:before { content: "\f101"; }
-.flaticon-car:before { content: "\f102"; }
-.flaticon-solar-panel:before { content: "\f103"; }
+    .flaticon-circuit:before { content: "\f100"; }
+.flaticon-house:before { content: "\f101"; }
+.flaticon-present:before { content: "\f102"; }
+.flaticon-gift-1:before { content: "\f103"; }
+.flaticon-diode:before { content: "\f104"; }
+.flaticon-led:before { content: "\f105"; }
+.flaticon-led-light-lamp:before { content: "\f106"; }
+.flaticon-needle-with-thread-to-sew-clothes:before { content: "\f107"; }
+.flaticon-suit:before { content: "\f108"; }
+.flaticon-car:before { content: "\f109"; }
+.flaticon-solar-panel:before { content: "\f10a"; }
     
-    $font-Flaticon-needle-with-thread-to-sew-clothes: "\f100";
-    $font-Flaticon-suit: "\f101";
-    $font-Flaticon-car: "\f102";
-    $font-Flaticon-solar-panel: "\f103";
+    $font-Flaticon-circuit: "\f100";
+    $font-Flaticon-house: "\f101";
+    $font-Flaticon-present: "\f102";
+    $font-Flaticon-gift-1: "\f103";
+    $font-Flaticon-diode: "\f104";
+    $font-Flaticon-led: "\f105";
+    $font-Flaticon-led-light-lamp: "\f106";
+    $font-Flaticon-needle-with-thread-to-sew-clothes: "\f107";
+    $font-Flaticon-suit: "\f108";
+    $font-Flaticon-car: "\f109";
+    $font-Flaticon-solar-panel: "\f10a";
