@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 02/04/2018 09:15
+  	Creation date: 10/04/2018 05:49
   	*/
 
 @font-face {
@@ -26,17 +26,24 @@
   font-family: Flaticon;
         font-size: 20px;
 font-style: normal;
-
+margin-left: 20px;
 }
 
-.flaticon-circuit:before { content: "\f100"; }
-.flaticon-house:before { content: "\f101"; }
-.flaticon-present:before { content: "\f102"; }
-.flaticon-gift-1:before { content: "\f103"; }
-.flaticon-diode:before { content: "\f104"; }
-.flaticon-led:before { content: "\f105"; }
-.flaticon-led-light-lamp:before { content: "\f106"; }
-.flaticon-needle-with-thread-to-sew-clothes:before { content: "\f107"; }
-.flaticon-suit:before { content: "\f108"; }
-.flaticon-car:before { content: "\f109"; }
-.flaticon-solar-panel:before { content: "\f10a"; }
+.flaticon-handshake:before { content: "\f100"; }
+.flaticon-cooperate:before { content: "\f101"; }
+.flaticon-agreement:before { content: "\f102"; }
+.flaticon-team-work:before { content: "\f103"; }
+.flaticon-warehouse:before { content: "\f104"; }
+.flaticon-customer:before { content: "\f105"; }
+.flaticon-quality:before { content: "\f106"; }
+.flaticon-circuit:before { content: "\f107"; }
+.flaticon-house:before { content: "\f108"; }
+.flaticon-present:before { content: "\f109"; }
+.flaticon-gift-1:before { content: "\f10a"; }
+.flaticon-diode:before { content: "\f10b"; }
+.flaticon-led:before { content: "\f10c"; }
+.flaticon-led-light-lamp:before { content: "\f10d"; }
+.flaticon-needle-with-thread-to-sew-clothes:before { content: "\f10e"; }
+.flaticon-suit:before { content: "\f10f"; }
+.flaticon-car:before { content: "\f110"; }
+.flaticon-solar-panel:before { content: "\f111"; }
